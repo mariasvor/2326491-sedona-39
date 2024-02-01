@@ -2,7 +2,7 @@
 
 * Студент: [Мария Воронова](https://up.htmlacademy.ru/htmlcss/39/user/2326491).
 * Наставник: [Дарья Шестерина](https://htmlacademy.ru/profile/id221124).
-* Сайт [Мой проект Седона] (https://mariasvor.github.io/2326491-sedona-39/)
+* Сайт [Мой проект Седона] (https://mariasvor.github.io/2326491-sedona-39/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
